@@ -8,7 +8,7 @@
             MultiplicationRandom.RandomMultiplicationNumbers();
             //MultiplicationTable.CountMultiplication();
         
-            //För github
+          
         
         }
     }
