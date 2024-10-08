@@ -1,0 +1,14 @@
+C:\projects\KYH\C#\BasicCode\BasicCode\bin\Debug\net8.0\BasicCode.exe
+C:\projects\KYH\C#\BasicCode\BasicCode\bin\Debug\net8.0\BasicCode.deps.json
+C:\projects\KYH\C#\BasicCode\BasicCode\bin\Debug\net8.0\BasicCode.runtimeconfig.json
+C:\projects\KYH\C#\BasicCode\BasicCode\bin\Debug\net8.0\BasicCode.dll
+C:\projects\KYH\C#\BasicCode\BasicCode\bin\Debug\net8.0\BasicCode.pdb
+C:\projects\KYH\C#\BasicCode\BasicCode\obj\Debug\net8.0\BasicCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\KYH\C#\BasicCode\BasicCode\obj\Debug\net8.0\BasicCode.AssemblyInfoInputs.cache
+C:\projects\KYH\C#\BasicCode\BasicCode\obj\Debug\net8.0\BasicCode.AssemblyInfo.cs
+C:\projects\KYH\C#\BasicCode\BasicCode\obj\Debug\net8.0\BasicCode.csproj.CoreCompileInputs.cache
+C:\projects\KYH\C#\BasicCode\BasicCode\obj\Debug\net8.0\BasicCode.dll
+C:\projects\KYH\C#\BasicCode\BasicCode\obj\Debug\net8.0\refint\BasicCode.dll
+C:\projects\KYH\C#\BasicCode\BasicCode\obj\Debug\net8.0\BasicCode.pdb
+C:\projects\KYH\C#\BasicCode\BasicCode\obj\Debug\net8.0\BasicCode.genruntimeconfig.cache
+C:\projects\KYH\C#\BasicCode\BasicCode\obj\Debug\net8.0\ref\BasicCode.dll
