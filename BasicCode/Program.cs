@@ -7,6 +7,9 @@
             //Hello.ShowHello();
             MultiplicationRandom.RandomMultiplicationNumbers();
             //MultiplicationTable.CountMultiplication();
+        
+            //För github
+        
         }
     }
 }
