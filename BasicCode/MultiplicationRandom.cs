@@ -15,16 +15,29 @@ namespace BasicCode
             int totalQuestions = 50;
             int questionCount = 0;
 
+            HashSet<(int, int)> askedQuestions = new HashSet<(int, int)> ();
+
+            Random rnd = new Random();
+
             while (questionCount < totalQuestions)
             {
-                Random rnd = new Random();
-                int x = rnd.Next(12);
-                int y = rnd.Next(12);
+                int x, y;
+
+                do
+                {
+                    x = rnd.Next(12);
+                    y = rnd.Next(12);
+                } 
+                
+                while (askedQuestions.Contains((x, y)) || askedQuestions.Contains((y, x)));   
+
+                askedQuestions.Add((x, y));
 
                 Console.WriteLine("Antal rätt:\t" + correctAnswers);
                 Console.WriteLine("Antal fel:\t" + failedAnswers);
                 Console.WriteLine();
                 Console.WriteLine("Hur mycket är " + x + " x " + y + "?");
+
                 int answer;
 
                 while (!int.TryParse(Console.ReadLine(), out answer))
@@ -44,7 +57,7 @@ namespace BasicCode
                 else
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("Tyvärr fel, försök igen!");
+                    Console.WriteLine("Tyvärr fel, försök med nästa!");
                     failedAnswers++;
                     Console.ResetColor();
                 }

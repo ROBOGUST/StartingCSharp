@@ -12,3 +12,4 @@ C:\projects\KYH\C#\BasicCode\BasicCode\obj\Debug\net8.0\refint\BasicCode.dll
 C:\projects\KYH\C#\BasicCode\BasicCode\obj\Debug\net8.0\BasicCode.pdb
 C:\projects\KYH\C#\BasicCode\BasicCode\obj\Debug\net8.0\BasicCode.genruntimeconfig.cache
 C:\projects\KYH\C#\BasicCode\BasicCode\obj\Debug\net8.0\ref\BasicCode.dll
+C:\projects\KYH\C#\BasicCode\BasicCode\obj\Debug\net8.0\BasicCode.sourcelink.json
